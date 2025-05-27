@@ -5224,7 +5224,7 @@ textarea.w-input, textarea.w-select {
 .hero-heading-left-9 {
   background-color: var(--black);
   color: var(--blue);
-  background-image: url("https://assets-global.website-files.com/653e74ac5cc02fddf0bc6977/65f708868d3d97e8059c0861_Screenshot%202024-03-17%20101149.png");
+  background-image: url("fartgame.png");
   background-position: 50%;
   background-size: cover;
   border-bottom: 1px solid #e4ebf3;
@@ -5642,43 +5642,10 @@ textarea.w-input, textarea.w-select {
 }
 
 .d-120-image-wrapper-fffcopy._3 {
-  background-image: url("fartgame.png");
+  background-image: url("https://assets-global.website-files.com/653e74ac5cc02fddf0bc6977/65fcaaa28023316d3bdb3173_Untitled%20(14).png");
   background-position: 30% 36%;
   background-size: cover;
 }
-
-.d-120-image-wrapper-1copycopy {
-  background-image: url("catexp.png");
-  background-position: 50%;
-  background-size: cover;
-  flex: 1;
-  justify-content: center;
-  align-items: center;
-  display: flex;
-  position: relative;
-}
-.d-120-image-wrapper-copycopyc._2 {
-  background-image: url("TDS.png");
-  background-position:  50%;
-  background-size: cover;
-  flex: 1;
-  justify-content: center;
-  align-items: center;
-  display: flex;
-  position: relative;
-}
-.d-120-image-wrapper-fffcopycopy._3 {
-  background-image: url("https://assets-global.website-files.com/653e74ac5cc02fddf0bc6977/65fcaaa28023316d3bdb3173_Untitled%20(14).png");
-  background-position:  50%;
-  background-size: cover;
-  flex: 1;
-  justify-content: center;
-  align-items: center;
-  display: flex;
-  position: relative;
-}
-
-
 
 .body-8 {
   background-color: #000;
